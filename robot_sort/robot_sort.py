@@ -96,8 +96,19 @@ class SortingRobot:
         """
         Sort the robot's list.
         """
-        # Fill this out
-        pass
+        # turn on robot light
+        # use while loop if light is on
+        ## turn off light
+        ## if can move right move right
+        ### grabbing the second number
+        ### compare it to left number
+        ### if left is larger swap the two
+        #### turn on light
+        ### place number back
+        ## move left and repeat
+
+        # if light if remains off throught loop, list is sorted
+
 
 
 if __name__ == "__main__":
